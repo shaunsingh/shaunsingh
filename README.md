@@ -2,4 +2,5 @@
 
 Contacts: 
 
-email: shaunsingh0207@gmail.com, discord: Hi_Im_Bored#1741
+- email: shaunsingh0207@gmail.com
+- discord: Hi_Im_Bored#1741
