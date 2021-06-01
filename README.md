@@ -1,4 +1,4 @@
-### I'm Shaurya Singhh, High School Student and leader/programmer for Team #10669. I love all things colorful, vim, and lua!
+### I'm Shaurya Singh, High School Student and leader/programmer for Team #10669.
 
 Contacts: 
 
