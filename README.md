@@ -9,6 +9,5 @@
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaunsingh&show_icons=true&locale=en" alt="shaunsingh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunsingh&layout=compact&hide=html&langs_count=8" alt="shaunsingh" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunsingh&layout=compact&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
